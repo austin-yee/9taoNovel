@@ -13,6 +13,10 @@ novelNumber = input('请输入书籍地址')
 # 请输入第一章地址
 urlNumber = input('请输入第一章地址')
 
+# 获得书籍地址
+
+# 获得第一章地址
+
 # 请输入需要读取的章节数
 chapterNumberStr = input('请输入需要读取的章节数')
 chapterNumberInt = int(chapterNumberStr)
